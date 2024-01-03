@@ -38,5 +38,10 @@ There were three CSV files given from the stakeholder which can be viewed throug
 1. [Dataset 1](https://console.cloud.google.com/bigquery?project=my-data-project-221094&ws=!1m5!1m4!4m3!1smy-data-project-221094!2sfiber!3smarket_1)
 2. [Dataset 2](https://console.cloud.google.com/bigquery?project=my-data-project-221094&ws=!1m5!1m4!4m3!1smy-data-project-221094!2sfiber!3smarket_2)
 3. [Dataset 3](https://console.cloud.google.com/bigquery?project=my-data-project-221094&ws=!1m5!1m4!4m3!1smy-data-project-221094!2sfiber!3smarket_3)
+
+Due to the needs of analysis, the three CSV files were merge into one single dataset and it can be viewed here;
+- [Final Dataset](https://console.cloud.google.com/bigquery?sq=128985238044:6acba457ef674c2dbf9002de7b0c2a62)
+
 ## Results
-## Acknowledgement
+- Results of dashboard and charts can be seen here [Tableau](https://public.tableau.com/app/profile/ahmad.azri8022/viz/GoogleBusinessIntelligence_17041893578800/Dashboard1)
+
